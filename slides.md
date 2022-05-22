@@ -27,7 +27,6 @@ E-Commerce
 <div>
 
 # Register
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -73,7 +72,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Login
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -119,8 +117,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Home
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
-
 </div>
 
 <style>
@@ -165,7 +161,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Products
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -211,7 +206,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Cart
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -257,7 +251,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Payment
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -303,7 +296,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Transactions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -349,7 +341,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div>
 
 # Sessions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
@@ -394,8 +385,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesu
 <div grid="~ cols-2 gap-4">
 <div>
 
+# About Page
+
+</div>
+<div>
+
+<img src="assets/images/about.png"/>
+
+</div>
+
+<style>
+img {
+  max-width: 75%;
+  height: 70%;
+  margin-left: 80px;
+}
+</style>
+
+</div>
+
+---
+
+<div grid="~ cols-2 gap-4">
+<div>
+
 # Live Demo
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit malesuada purus, in vulputate urna aliquam id. Etiam fermentum vel libero non pharetra. Mauris id finibus lectus. Nam ultricies consectetur diam. Suspendisse eu libero fermentum, venenatis lorem eget, sollicitudin nisl. Aliquam dictum imperdiet risus, id maximus sapien tincidunt ut. Nulla facilisi. Vivamus at dictum velit, sed rutrum lectus. In consectetur aliquam diam, a consequat risus posuere eu. Nunc egestas elit dui, vitae varius lorem malesuada a. Nam in lacus vitae leo pharetra convallis eget a risus. 
 
 </div>
 
