@@ -390,7 +390,7 @@ E-Commerce
 </div>
 <div>
 
-<img src="assets/images/about.png"/>
+<img src="https://telegra.ph/file/e6c78c02be054fe6694f4.png"/>
 
 </div>
 
